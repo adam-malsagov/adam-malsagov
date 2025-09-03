@@ -7,7 +7,6 @@ Adaptable and eager to learn, I sharpen my skills through personal projects and 
 ## 🚀 About Me  
 - 📊 Strong foundation in **AI, Data Science, and Machine Learning**  
 - 💻 Skilled in **Python, SQL**, and popular data science libraries  
-- 🧠 Actively learning algorithms and data structures
 - 🔍 Always exploring new technologies and approaches to problem-solving  
 
 ---
@@ -35,8 +34,8 @@ Adaptable and eager to learn, I sharpen my skills through personal projects and 
 ---
 
 ## 🔭 I’m currently working on
-- Building **local LLM chatbot** project
-- Practicing solving problems daily on **LeetCode**  
+- Building **local LLM chatbot**
+- Practicing solving problems daily
 
 ---
 
