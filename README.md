@@ -39,7 +39,9 @@ Adaptable and eager to learn, I sharpen my skills through personal projects and 
 
 ---
 
-## 🌐 Blogs
+## 🌐 Blogs & Social Sites
+
+[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&logoColor=white)](https://adam-malsagov.hashnode.dev)  
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@adam_dev)  
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/adam_dev)  
 
