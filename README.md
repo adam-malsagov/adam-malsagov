@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Adam
  
-Adaptable and eager to learn, I sharpen my skills through personal projects and coding challenges.
+Welcome to my GitHub profile! Here, I share my personal projects that I built and the skills that I learned. I can be described as someone who is adaptable and eager to learn. I am always looking to solve problems, especially coding problems! 
 
 ---
 
 ## 🚀 About Me  
 - 📊 Strong foundation in **AI, Data Science, and Machine Learning**  
-- 💻 Skilled in **Python, SQL**, and popular data science libraries  
+- 💻 Skilled in **Python, SQL** programming, and popular data science libraries  
 - 🔍 Always exploring new technologies and approaches to problem-solving  
 
 ---
