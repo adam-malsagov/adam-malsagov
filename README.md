@@ -42,7 +42,5 @@ Welcome to my GitHub profile! Here, I share my personal projects that I built an
 ## 🌐 Blogs & Social Sites
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@adam_dev)  
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/adam_dev)  
-
 
 
