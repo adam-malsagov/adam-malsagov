@@ -41,6 +41,7 @@ Welcome to my GitHub profile! Here, I share my personal projects that I built an
 
 ## 🌐 Blogs & Social Sites
 
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@adam_dev)  
+[![Substack](https://img.shields.io/badge/Substack--orange?logo=substack)](https://adammalsagov.substack.com/)  
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@adam_dev)    
 
 
