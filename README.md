@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Adam
  
-Welcome to my GitHub profile! Here, I share my personal projects that I built and the skills that I learned. I can be described as someone who is adaptable and eager to learn. I am always looking to solve problems, especially coding problems! 
+Welcome to my GitHub profile! Here, I showcase my projects and the skills that I learned. I’m a proactive problem-solver with a passion for continuous learning and tackling complex coding challenges.
 
 ---
 
