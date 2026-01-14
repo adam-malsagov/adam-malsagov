@@ -4,9 +4,9 @@ Welcome to my GitHub profile! Here, I showcase my projects and the skills that I
 
 
 ## 🚀 About Me  
-- 📊 Strong foundation in AI, Data Science, and Machine Learning  
-- 💻 Skilled in Python, SQL and popular data science libraries  
-- 🔍 Keeping up to date with new developments in tech
+- 🤖 Strong foundation in AI, Data Science, and Machine Learning  
+- 🧑🏼‍💻 Skilled in Python, SQL and popular data science libraries  
+- ✅ Keeping up to date with main developments in tech
 
 
 ## 💻 Tech Stack  
