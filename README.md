@@ -1,15 +1,15 @@
 ## Hi there 👋 I'm Adam
 
-Welcome to my GitHub profile! Here, I showcase my projects and the skills that I learned. I'm a proactive problem-solver with a passion for continuous learning and tackling complex coding challenges.
+Welcome to my GitHub profile! I'm passionate about continuous learning and solving challenging problems.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,postgres,sqlite,cpp,git,github,powershell,pytorch" />
+  <img src="https://skillicons.dev/icons?i=py,anaconda,postgres,sqlite,git,github,powershell,pytorch" />
 </p>
 
 
 ## 🚀 About Me  
-- 🤖 Strong foundation in AI, Data Science, and Machine Learning  
-- 🧑🏼‍💻 Skilled in Python, SQL and popular data science libraries  
+- 🤖 Focused on AI/ML, software development, and data science 
+- 🧑🏼‍💻 Experienced with Python, SQL, and popular data science libraries  
 - ✅ Keeping up to date with main developments in tech
 
 
